@@ -1,0 +1,6 @@
+﻿  SimpleCombatLoop.cpp
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk4\SimpleCombatLoop\SimpleCombatLoop.cpp(41,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk4\SimpleCombatLoop\SimpleCombatLoop.cpp(48,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk4\SimpleCombatLoop\SimpleCombatLoop.cpp(55,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk4\SimpleCombatLoop\SimpleCombatLoop.cpp(64,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SimpleCombatLoop.vcxproj -> C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk4\SimpleCombatLoop\x64\Debug\SimpleCombatLoop.exe

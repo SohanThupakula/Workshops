@@ -1,0 +1,6 @@
+﻿  Objects.cpp
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Characters\Objects.cpp(50,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Characters\Objects.cpp(51,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Characters\Objects.cpp(52,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Characters\Objects.cpp(53,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Characters.vcxproj -> C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Characters\x64\Debug\Characters.exe

@@ -1,0 +1,6 @@
+﻿  Objects.cpp
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Shapes\Objects.h(21,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Shapes.cpp
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Shapes\Objects.h(21,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating Code...
+  Shapes.vcxproj -> C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk8\Shapes\x64\Debug\Shapes.exe

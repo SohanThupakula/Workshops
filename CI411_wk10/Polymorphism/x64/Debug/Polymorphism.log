@@ -1,0 +1,7 @@
+﻿  Objects.cpp
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk10\Polymorphism\Objects.cpp(28,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk10\Polymorphism\Objects.cpp(30,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk10\Polymorphism\Objects.cpp(37,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk10\Polymorphism\Objects.cpp(38,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk10\Polymorphism\Objects.cpp(39,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Polymorphism.vcxproj -> C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk10\Polymorphism\x64\Debug\Polymorphism.exe

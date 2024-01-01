@@ -1,0 +1,6 @@
+﻿  Functions.cpp
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk5\SimpleMathsExamples\Functions.cpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk5\SimpleMathsExamples\Functions.cpp(18,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SimpleMathsExamples.cpp
+  Generating Code...
+  SimpleMathsExamples.vcxproj -> C:\Users\sohan\OneDrive - University of Brighton\ST1155_modules\CI411\Workshops\CI411_wk5\SimpleMathsExamples\x64\Debug\SimpleMathsExamples.exe
